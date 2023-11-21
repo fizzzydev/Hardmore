@@ -6,7 +6,7 @@ Enhanced mobs can see you from almost anywhere and try to reach you no matter ho
 Each second you survive gives you a points and completing quests gives you multipliers, altough they will put you at risk of loosing the run.
 
 
-The name comes from Hardcore + More
+The name comes from More Hardcore
 
 I'm still working on this. Currently only a test/prove of concept alpha is available. Point system doesn't work yet.
 It is playable without any problems but it's far from finished.
